@@ -200,7 +200,11 @@ Usar la **información de Fisher esperada** $\mathcal{I}_E(\theta)=-\mathbb{E}[\
 
 Para GLM Bernoulli-logit, $\theta_i=\mathrm{logit}(\pi_i)=x_i^\top\beta$:
 
-$$\nabla\ell(\beta) = X^\top(y-\pi), \qquad \nabla^2\ell(\beta) = -X^\top W X, \qquad W = \mathrm{diag}\bigl\{\pi_i(1-\pi_i)\bigr\}.$$
+$$
+\nabla \ell(\beta) = X^\top (y - \pi), \qquad
+\nabla^2 \ell(\beta) = -X^\top W X, \qquad
+W = \mathrm{diag}(\pi_i (1 - \pi_i)).
+$$
 
 ```
 Inicializar beta^(0)
