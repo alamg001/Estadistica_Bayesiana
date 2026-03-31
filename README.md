@@ -2,7 +2,7 @@
 
 <img src="https://www.uni.edu.pe/images/logo_uni.png" width="75"/>
 
-# Estadística Computacional
+# Estadística Bayesiana - Metodos Computacionales 
 
 **Doctorando:** Antonio Lam García  
 **Profesor:** Dr. Erick A. Chacón Montalván
