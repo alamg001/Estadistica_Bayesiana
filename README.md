@@ -22,7 +22,7 @@ Facultad de Ingeniería Económica, Estadística y Ciencias Sociales
 
 ## Sobre este documento
 
-Este repositorio recoge las notas de un curso de **Estadística Computacional** impartido en el programa de posgrado de la UNI. A pesar del nombre del archivo, el contenido no versa sobre inferencia bayesiana en abstracto, sino sobre el conjunto de herramientas algorítmicas que la hacen computacionalmente viable: generación de muestras de distribuciones arbitrarias, optimización numérica, y estimación bajo datos incompletos mediante el algoritmo EM. Estas piezas forman el sustrato técnico sobre el que descansan los métodos MCMC y la inferencia bayesiana moderna.
+Este repositorio recoge las notas de un curso de **Estadística BAyesiana Avanzada** impartido en el programa de Doctorado de la UNI. Debo aclarar que el contenido no versa sobre inferencia bayesiana en abstracto, sino sobre el conjunto de herramientas algorítmicas que la hacen computacionalmente viable: generación de muestras de distribuciones arbitrarias, optimización numérica, y estimación bajo datos incompletos mediante el algoritmo EM. Estas piezas forman el sustrato técnico sobre el que descansan los métodos MCMC y la inferencia bayesiana moderna.
 
 ---
 
