@@ -523,3 +523,7 @@ $$\pi(x)\,P_{xy} = \pi(x)\,q(x,y)\,\alpha(x,y) = \min\!\bigl(\pi(x)q(x,y),\,\pi(
 *Universidad Nacional de Ingeniería — Doctorado en Ciencias e Ingeniería Estadística*
 
 </div>
+
+
+###### algoritmos 
+
