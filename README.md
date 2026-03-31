@@ -28,13 +28,13 @@ Este repositorio recoge las notas de un curso de **Estadística BAyesiana Avanza
 
 ## Índice de módulos
 
-| # | Módulo | Páginas | Núcleo conceptual |
+| # | Módulo | Secciones | Núcleo conceptual |
 |---|--------|---------|-------------------|
-| 1 | [Generación de números aleatorios](#1-generación-de-números-aleatorios) | 1–40 | PIT; RNGs; inverse CDF; rejection sampling; Cholesky |
-| 2 | [Optimización y ecuaciones no lineales](#2-optimización-y-resolución-de-ecuaciones-no-lineales) | 41–72 | QR; LP cuantílico; Newton; IRLS; Gauss-Newton |
-| 3 | [Algoritmo EM](#3-algoritmo-expectation-maximization-em) | 73–200 | Verosimilitud completa; E-step/M-step; ascenso monótono |
-| 4 | [Métodos de Monte Carlo](#4-métodos-de-monte-carlo) | 200–300 | Estimador MC; importance sampling; SIR; control variates |
-| 5 | [MCMC: Gibbs y Metropolis-Hastings](#5-markov-chain-monte-carlo-mcmc) | 300–554 | Cadenas de Markov; balance detallado; Gibbs; MH |
+| 1 | [Generación de números aleatorios](#1-generación-de-números-aleatorios) | 1 a 1.3 | PIT; RNGs; inverse CDF; rejection sampling; Cholesky |
+| 2 | [Optimización y ecuaciones no lineales](#2-optimización-y-resolución-de-ecuaciones-no-lineales) | 2 a 2.4 | QR; LP cuantílico; Newton; IRLS; Gauss-Newton |
+| 3 | [Algoritmo EM](#3-algoritmo-expectation-maximization-em) | 3 a 3.6 | Verosimilitud completa; E-step/M-step; ascenso monótono |
+| 4 | [Métodos de Monte Carlo](#4-métodos-de-monte-carlo) | 4 a 4.4 | Estimador MC; importance sampling; SIR; control variates |
+| 5 | [MCMC: Gibbs y Metropolis-Hastings](#5-markov-chain-monte-carlo-mcmc) | 5 a 5.3 | Cadenas de Markov; balance detallado; Gibbs; MH |
 
 ---
 
