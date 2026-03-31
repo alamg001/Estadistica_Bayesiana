@@ -14,7 +14,7 @@ Facultad de Ingeniería Económica, Estadística y Ciencias Sociales
 
 ---
 
-*Notas del curso `Estadistica_Bayesiana.pdf` · 554 páginas*
+*Notas del curso: Apuntes de clase y desarllo de ejercicios del curso.*
 
 </div>
 
