@@ -365,9 +365,6 @@ $$\sqrt{m}\,\bigl(\hat\mu_{\mathrm{MC}}-\mu\bigr) \;\xrightarrow{d}\; N\!\bigl(0
 
 Densidad instrumental $g$ con $\mathrm{supp}(h\cdot f)\subseteq\mathrm{supp}(g)$. Pesos:
 
-$$w^{*}(x) = \frac{f(x)}{g(x)}, \qquad w(x_i) = \frac{w^{*}(x_i)}{\sum_{j=1}^{m}w^{*}(x_j)}.$$
-
-
 
 <p align="center">
   <img src="https://github.com/alamg001/alamg001-CicloII.github.io/blob/main/Muestreo%20por%20Importancia%20Normalizado.png?raw=true" alt="Muestreo por Importancia Normalizado" width="500"/>
