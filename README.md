@@ -530,8 +530,16 @@ $$\pi(x)\,P_{xy} = \pi(x)\,q(x,y)\,\alpha(x,y) = \min\!\bigl(\pi(x)q(x,y),\,\pi(
 
 
 
-
-
-
 ###### algoritmos 
+
+
+
+
+
+
+
+
+
+
+
 
